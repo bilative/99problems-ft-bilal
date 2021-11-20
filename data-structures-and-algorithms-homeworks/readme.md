@@ -25,3 +25,9 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 ![image](https://user-images.githubusercontent.com/70684994/142072000-1940e6a3-7c95-490b-b903-5922cc0f71ef.png)
 
 -----
+### Week - 2
+- Payments of employees [Solution](/data-structures-and-algorithms-homeworks/files/calendar.c)
+  -I found the solution with a bug on ineternet. And I fixed it with some steps, and I used it on my homework :d 
+* Calender [Solution](/data-structures-and-algorithms-homeworks/files/employees_pays.c)
+ 
+![Screenshot 2021-11-20 151337](https://user-images.githubusercontent.com/70684994/142725915-50f3d798-14f4-44d2-a35e-28869b648079.png)
