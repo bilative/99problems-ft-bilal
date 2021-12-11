@@ -55,3 +55,14 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 - The Sieve of Eratosthenes [Solution](/data-structures-and-algorithms-homeworks/files/the_sieve_of_eratosthenes.c)
 
 ![image](https://user-images.githubusercontent.com/70684994/144724148-9f3ed754-fc38-4ef5-94d7-4f87901b2376.png)
+
+### Week - 5
+
+- Simulation: The Tortoise and the Hare [Solution](/data-structures-and-algorithms-homeworks/files/the_tortoise_and_the_hare.c)
+
+![image](https://user-images.githubusercontent.com/70684994/145669313-06edea61-27dd-4006-8a4f-072a9a6051e8.png)
+![image](https://user-images.githubusercontent.com/70684994/145669335-731eb122-a39a-4e8e-853d-1abe0f481f33.png)
+
+* Sample output:
+
+![tortoisegame5](https://user-images.githubusercontent.com/70684994/145669359-08a8c561-101b-459e-83e5-b41be3e25eea.png)
