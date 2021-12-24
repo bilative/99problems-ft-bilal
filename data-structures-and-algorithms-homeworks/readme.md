@@ -6,7 +6,7 @@
 ## Questions
 Here first's the questions, you can go to solutions (Solutions could be wrong :d) also.
 
-### Week - 1 
+### Homework - 1 
 ##### Binary to decimal: [Solution](/data-structures-and-algorithms-homeworks/files/binary_to_decimal.c)
 * Week-1 Question 1, 
 
@@ -26,7 +26,7 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 ![image](https://user-images.githubusercontent.com/70684994/142072000-1940e6a3-7c95-490b-b903-5922cc0f71ef.png)
 
 -----
-### Week - 2
+### Homework - 2
 - Payments of employees [Solution](/data-structures-and-algorithms-homeworks/files/calendar.c)
   -I found the solution with a bug on ineternet. And I fixed it with some steps, and I used it on my homework :d 
 * Calender [Solution](/data-structures-and-algorithms-homeworks/files/employees_pays.c)
@@ -35,8 +35,8 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 
 -----
 
-### Week - 3
-- Guess the Number [Solution](/data-structures-and-algorithms-homeworks/files/guess_the_letter.c)
+### Homework - 3
+- Guess the Alphabet [Solution](/data-structures-and-algorithms-homeworks/files/guess_the_letter.c)
 
 ![image](https://user-images.githubusercontent.com/70684994/143779768-49feac90-ec62-4cfc-b0a5-fdad237e0e42.png)
 
@@ -50,13 +50,13 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 
 -----
 
-### Week - 4
+### Homework - 4
 
 - The Sieve of Eratosthenes [Solution](/data-structures-and-algorithms-homeworks/files/the_sieve_of_eratosthenes.c)
 
 ![image](https://user-images.githubusercontent.com/70684994/144724148-9f3ed754-fc38-4ef5-94d7-4f87901b2376.png)
 
-### Week - 5
+### Homework - 5
 
 - Simulation: The Tortoise and the Hare [Solution](/data-structures-and-algorithms-homeworks/files/the_tortoise_and_the_hare.c)
 
@@ -66,3 +66,11 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 * Sample output:
 
 ![tortoisegame5](https://user-images.githubusercontent.com/70684994/145669359-08a8c561-101b-459e-83e5-b41be3e25eea.png)
+
+### Homework - 6
+
+- Outputting Character Count to a File [Solution](/data-structures-and-algorithms-homeworks/files/write_character_count_to_file.c)
+  - Warning! This program reads data from file named: [english_text.txt](/data-structures-and-algorithms-homeworks/files/english_text.txt)
+  - I took the text from Cory Zue's Blog page.
+
+![image](https://user-images.githubusercontent.com/70684994/147368988-22daca92-b9b2-4fda-a14b-236ef9781893.png)
