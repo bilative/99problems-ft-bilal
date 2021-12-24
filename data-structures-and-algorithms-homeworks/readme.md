@@ -74,3 +74,7 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
   - I took the text from Cory Zue's Blog page.
 
 ![image](https://user-images.githubusercontent.com/70684994/147368988-22daca92-b9b2-4fda-a14b-236ef9781893.png)
+
+* written file (counts.dat):
+
+![solution](https://user-images.githubusercontent.com/70684994/147369280-f4100d01-76e0-4d22-a48b-0b9693b1db49.png)
