@@ -78,3 +78,12 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 * written file (counts.dat):
 
 ![solution](https://user-images.githubusercontent.com/70684994/147369280-f4100d01-76e0-4d22-a48b-0b9693b1db49.png)
+
+### Homework - 7
+
+- Merging After Inserting into Ordered List [Solution](/data-structures-and-algorithms-homeworks/files/merging_linkedlists.c)
+
+![image](https://user-images.githubusercontent.com/70684994/147789128-27404d63-e03d-4c2d-ae9d-f5c084687f1a.png)
+
+![odev](https://user-images.githubusercontent.com/70684994/147789261-e8b7f8fd-fdeb-47b4-bb67-185302f7da84.png)
+
