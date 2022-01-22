@@ -6,8 +6,11 @@
 
 * After i read this chapter I think that i should check it.
 
-#### Fang Dice Problem: [code](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files//faang_dice_problem.py)
+#### Fang Dice Problem: [code](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files/faang_dice_problem.py)
 * Amy and Brad take turns in rolling a fair six-sided die. Whoever rolls a “6” first wins the game. Amy starts by rolling first. What’s the probability that Amy wins?
 
-#### My web page version of Github-heatmap: [code](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files//files/github_heatmap.md)
+#### My web page version of Github-heatmap: [code](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files/files/github_heatmap.md)
 * I'll host my own personal website soon. And I'm on [x-days-of-code](https://bilative.github.io/xdaysofcode) challange. I decided to build activity heatmap (like github commit heatmap) and I searched little bit. And found the way that I can create it, but the problem was automizing.
+
+#### Clock angle problem: [code (python)](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files/files/clock_angle.ipynb) - [code (javascript)](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files/files/clock_angle.js)
+* Problem is: What is the angle between hour and minute hand?
