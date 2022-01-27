@@ -1,4 +1,4 @@
-// I took the example from UBE DSA course notes
+// I took the example from UBI DSA course notes
 
 /* Fig. 12.13: fig12_13.c
    Operating and maintaining a queue */
