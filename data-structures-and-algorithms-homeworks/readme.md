@@ -56,6 +56,7 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 
 ![image](https://user-images.githubusercontent.com/70684994/144724148-9f3ed754-fc38-4ef5-94d7-4f87901b2376.png)
 
+-------------
 ### Homework - 5
 
 - Simulation: The Tortoise and the Hare [Solution](/data-structures-and-algorithms-homeworks/files/the_tortoise_and_the_hare.c)
@@ -67,6 +68,16 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 
 ![tortoisegame5](https://user-images.githubusercontent.com/70684994/145669359-08a8c561-101b-459e-83e5-b41be3e25eea.png)
 
+-----
+### Midterm 
+- 1) Recursive version of the code: [Solution](/data-structures-and-algorithms-homeworks/files/midterm_1.c)
+![11111](https://user-images.githubusercontent.com/70684994/153932551-047188ea-0f43-4684-8519-0943ed3ee893.png)
+- 2) Number of the students at time t: [Solution](/data-structures-and-algorithms-homeworks/files/midterm_2.c)
+![22222](https://user-images.githubusercontent.com/70684994/153932540-aee7dfbe-1237-4698-90a9-43794661564f.png)
+- 3) Filling missing parts of the codes: [Solution](/data-structures-and-algorithms-homeworks/files/midterm_3.c)
+![333333](https://user-images.githubusercontent.com/70684994/153932525-652a03c1-db07-4c06-9c8d-cd4959b92241.png)
+
+------
 ### Homework - 6
 
 - Outputting Character Count to a File [Solution](/data-structures-and-algorithms-homeworks/files/write_character_count_to_file.c)
@@ -79,6 +90,7 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 
 ![solution](https://user-images.githubusercontent.com/70684994/147369280-f4100d01-76e0-4d22-a48b-0b9693b1db49.png)
 
+-----
 ### Homework - 7
 
 - Merging After Inserting into Ordered List [Solution](/data-structures-and-algorithms-homeworks/files/merging_linkedlists.c)
@@ -87,3 +99,4 @@ Here first's the questions, you can go to solutions (Solutions could be wrong :d
 
 ![odev](https://user-images.githubusercontent.com/70684994/147789261-e8b7f8fd-fdeb-47b4-bb67-185302f7da84.png)
 
+----
