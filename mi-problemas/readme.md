@@ -14,3 +14,6 @@
 
 #### Clock angle problem: [code (python)](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files/files/clock_angle.ipynb) - [code (javascript)](https://github.com/bilative/99problems-ft-bilal/blob/master/mi-problemas/files/files/clock_angle.js)
 * Problem is: What is the angle between hour and minute hand?
+
+#### Birthday Paradox [code (python)](https://github.com/bilative/99problems-ft-bilal/blob/main/mi-problemas/files/birthday_problem.ipynb)
+- In probability theory, the birthday problem asks for the probability that, in a set of n randomly chosen people, at least two will share a birthday. The birthday paradox is that, counterintuitively, the probability of a shared birthday exceeds 50% in a group of only 23 people.
